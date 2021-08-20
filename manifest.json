@@ -1,7 +1,7 @@
 {
-  "name":"power-save",
-  "version":"0.0.1",
-  "description":"the only powercord image plugin you'll ever need",
-  "author":"Giotje",
-  "license":"MIT"
+  "name": "power save",
+  "version": "0.0.1",
+  "description": "the only powercord image plugin you'll ever need",
+  "author": "WeHateJS",
+  "license": "MIT"
 }
