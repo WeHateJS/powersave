@@ -1,5 +1,5 @@
 const { Plugin } = require('powercord/entities');
-const { getModule } = require('powercord/webpack');
+const { React, getModule } = require('powercord/webpack');
 const { inject, uninject } = require('powercord/injector');
 
 module.exports = class PowerSave extends Plugin {
